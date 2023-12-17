@@ -1,0 +1,92 @@
+[
+  {
+    "id": 101,
+    "watch_model": "SleekX Master",
+    "picture": "sleekx_master.jpg",
+    "price": 149.99,
+    "code": "WATC2022",
+    "brand_name": "LuxuryWear",
+    "made_in": "Italy"
+  },
+  {
+    "id": 102,
+    "watch_model": "TechChrono 5000",
+    "picture": "techchrono_5000.jpg",
+    "price": 119.99,
+    "code": "WATC4040",
+    "brand_name": "DigitalEdge",
+    "made_in": "Japan"
+  },
+  {
+    "id": 103,
+    "watch_model": "Eclipse Elegance",
+    "picture": "eclipse_elegance.jpg",
+    "price": 179.99,
+    "code": "WATC6060",
+    "brand_name": "MoonRise Watches",
+    "made_in": "Switzerland"
+  },
+  {
+    "id": 104,
+    "watch_model": "Titanium Explorer",
+    "picture": "titanium_explorer.jpg",
+    "price": 229.99,
+    "code": "WATC8080",
+    "brand_name": "AdventureTech",
+    "made_in": "USA"
+  },
+  {
+    "id": 105,
+    "watch_model": "UrbanChic Signature",
+    "picture": "urbanchic_signature.jpg",
+    "price": 99.99,
+    "code": "WATC1010",
+    "brand_name": "MetroStyle",
+    "made_in": "France"
+  },
+  {
+    "id": 106,
+    "watch_model": "Ocean Voyager Pro",
+    "picture": "ocean_voyager_pro.jpg",
+    "price": 189.99,
+    "code": "WATC1212",
+    "brand_name": "AquaTech",
+    "made_in": "Germany"
+  },
+  {
+    "id": 107,
+    "watch_model": "Heritage Classic",
+    "picture": "heritage_classic.jpg",
+    "price": 129.99,
+    "code": "WATC1414",
+    "brand_name": "Timeless Creations",
+    "made_in": "United Kingdom"
+  },
+  {
+    "id": 108,
+    "watch_model": "Fashion Fusion X",
+    "picture": "fashion_fusion_x.jpg",
+    "price": 109.99,
+    "code": "WATC1616",
+    "brand_name": "TrendyTime",
+    "made_in": "China"
+  },
+  {
+    "id": 109,
+    "watch_model": "Retro Revival",
+    "picture": "retro_revival.jpg",
+    "price": 139.99,
+    "code": "WATC1818",
+    "brand_name": "NostalgiaWear",
+    "made_in": "Japan"
+  },
+  {
+    "id": 110,
+    "watch_model": "Skyline Navigator",
+    "picture": "skyline_navigator.jpg",
+    "price": 199.99,
+    "code": "WATC2020",
+    "brand_name": "CityHorizon",
+    "made_in": "USA"
+  }
+]
